@@ -1,0 +1,2 @@
+# SAP-PP-Online-Training
+SAP PP(Production Planning) Training Provided by Tekslate makes you manage the schedule and effective production of provisions in the company. This course teaches us how to create BOM( Bill of Material) in which we can describe the elements essential for making a product. During this training, we can learn important concepts like Datacenter, Different types of Routing, Sales and operational planning, etc. All sorts of plans related to production are discussed in this training.
